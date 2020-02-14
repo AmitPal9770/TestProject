@@ -29,6 +29,7 @@ background-image: url("<%=ORSView.APP_CONTEXT%>/image/lib5.jpg");
 	<font size="6px" color="black">
 	<a href="<%=ORSView.WELCOME_CTL%>">Welcome to Online Result System</a>
 </font>
+	<h1>hiii</h1>
 </h1>
 </div>
 </body>
